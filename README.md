@@ -7,28 +7,16 @@
 
 ## 🚀 About Me
 
-I am an AI & Data professional with a strong scientific background and a PhD in Fluid Mechanics from Fluid Mechanics Institute of Toulouse (France).
+I'm an AI & Data Engineer with a PhD in Fluid Mechanics (IMFT, France). I help teams unlock the value of their data by building scalable pipelines, automating workflows, and deploying ML solutions that bridge complex technical problems and business impact.
 
-My work sits at the intersection of:
+My expertise spans:
 
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Image Processing  
-- Scientific Data Analysis & Modeling  
-- Engineering Simulation & Experimental Systems  
-- MLOps & Model Deployment  
-
-I enjoy transforming complex physical or industrial problems into robust data-driven solutions.
-
----
-
-## 🧠 Areas of Expertise
-
-✅ Machine Learning & Deep Learning  
-✅ Computer Vision (segmentation, detection, satellite imagery)  
-✅ Scientific Python & Data Pipelines  
-✅ Statistical Modeling & Experimental Data  
-✅ Model Deployment (FastAPI / Streamlit / Cloud)  
-✅ Engineering Simulation (CFD / Multiphysics)
+⚙️ **Data Engineering** — ETL/ELT pipelines, Big Data (PySpark, Airflow, Databricks)  
+☁️ **Cloud Architectures** — BigQuery, GCP, PostgreSQL, data warehousing  
+🤖 **AI/ML at Scale** — Deep Learning, Computer Vision, model deployment & MLOps  
+🔁 **Workflow Automation** — Python scripting, process optimization, low-code tools  
+📊 **Data-driven Solutions** — Analytics, dashboards, statistical modeling  
+💬 **Technical Communication** — Making complex solutions accessible to non-technical teams
 
 ---
 
@@ -45,8 +33,7 @@ I enjoy transforming complex physical or industrial problems into robust data-dr
 ### 👨‍💻 Programming
 - Python
 - SQL
-- MATLAB
-- R
+- MATLAB/R
 
 ### 🤖 AI / ML
 - TensorFlow
@@ -77,7 +64,7 @@ I enjoy transforming complex physical or industrial problems into robust data-dr
 
 ## 📌 Featured Projects
 
-### 🛰️ Disaster Damage Assessment (Computer Vision)
+### 🛰️ Disaster Damage Assessment - Computer Vision. Data Science Training Projects (Artefact School of Data)
 
 Deep learning pipeline to detect building damage from satellite imagery  
 - U-Net segmentation model  
@@ -87,9 +74,9 @@ Deep learning pipeline to detect building damage from satellite imagery
 
 ---
 
-### 🔬 Scientific Imaging & Experimental Data Analysis
+### 🔬 Scientific Imaging & Experimental Data Analysis (PhD Thesis)
 
-Analysis pipelines for environmental and fluid mechanics experiments  
+Analysis pipelines for environmental and fluid mechanics experiments: 3D visualisation and measuring of biological systems using X-ray tomography and a wide range of sensors (pressure, oxygen etc)
 - Signal processing  
 - Statistical modeling
 - Visualization dashboards  
@@ -97,12 +84,11 @@ Analysis pipelines for environmental and fluid mechanics experiments
 
 ---
 
-### 📈 Data Science Training Projects (Artefact School of Data)
+### 📈 Statistical analysis of geological data (TransverseLab)
 
-- End-to-end ML workflows  
-- Model evaluation & interpretability  
-- Cloud experimentation  
-- Business-oriented analytics  
+- Built analysis pipelines for environmental and geological datasets  
+- Applied statistical modeling to pollutant measurements  
+- Generated insights to support scientific and operational decisions
 
 ---
 
